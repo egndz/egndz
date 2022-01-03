@@ -2,7 +2,7 @@
 
 ## Occupational 🎓
  [![LinkedIn](https://img.shields.io/badge/style-Egehan%20Gunduz-green?logo=LinkedIn&style=flat&label=LinkedIn&color=0077b5&link=https://www.linkedin.com/in/egehangunduz/)](https://www.linkedin.com/in/egehangunduz/) 
-- I am a Master's student at Griffith College Dublin, studying International Business Management
+- I am a Master's student at IMB school Barcelona, studying Music Business Innovation in addition to my previous degrees: BSc in Computer Eng and MBA at Griffith College Dublin.
 - I have keen interest in live music coding and sound analytics.
 
 ## Software ☕
