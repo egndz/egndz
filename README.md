@@ -15,4 +15,4 @@
 [![Gmail](https://img.shields.io/badge/style-egehangunduz@gmail.com-green?logo=gmail&style=flat&label=Gmail&color=d14836&link=mailto:egehangunduz@gmail.com)](mailto:egehangunduz@gmail.com)
 
 
-![egndz's GitHub stats](https://github-readme-stats.vercel.app/api?username=egndz&show_icons=true&bg_color=00000000)
+![egndz's github stats](https://github-readme-stats.vercel.app/api?username=egndz&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=synthwave)
