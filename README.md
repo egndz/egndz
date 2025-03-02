@@ -2,7 +2,7 @@
 
 ## Occupational 🎓
  [![LinkedIn](https://img.shields.io/badge/style-Egehan%20Gunduz-green?logo=LinkedIn&style=flat&label=LinkedIn&color=0077b5&link=https://www.linkedin.com/in/egehangunduz/)](https://www.linkedin.com/in/egehangunduz/)
-- I am a Data Scientist at CKDelta, crafting data solutions for utility and sustainability companies.
+- I am a Data Scientist at Kobalt Music, crafting data solutions for creators
 
 ## Software ☕
 [![StackShare](https://img.shields.io/badge/-egndz-red?logo=stackshare&style=flat&label=Stackshare&color=0690FA&link=https://stackshare.io/egndz)](https://stackshare.io/egndz)
